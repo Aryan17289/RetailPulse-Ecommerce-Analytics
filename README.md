@@ -151,11 +151,4 @@ The dataset contains 100K+ real orders placed on Olist between 2016 and 2018.
 
 ---
 
-## 👤 Author
-
-**Aryan** — Data Analyst  
-🔗 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) | 🌐 [Portfolio](https://YOUR_PORTFOLIO.vercel.app) | 📧 your@email.com
-
----
-
 ## ⭐ If this project helped you, consider giving it a star!
