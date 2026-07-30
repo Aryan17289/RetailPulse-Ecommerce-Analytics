@@ -139,7 +139,7 @@ Open `dashboard.html` in any browser — no server or installation needed.
 
 > Standalone `dashboard.html` — open directly in any browser.
 
-> View : https://Aryan17289.github.io/RetailPulse-Ecommerce-Analytics/dashboard.html 
+> View : https://aryan17289.github.io/RetailPulse-Ecommerce-Analytics/dashboard.html
 ---
 
 ## 📁 Dataset
