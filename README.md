@@ -137,7 +137,6 @@ Open `dashboard.html` in any browser — no server or installation needed.
 
 ## 📸 Dashboard Preview
 
-> Power BI dashboard (`Dashboard.pbix`) — open with Power BI Desktop.  
 > Standalone `dashboard.html` — open directly in any browser.
 
 ---
