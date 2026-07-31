@@ -6,12 +6,5 @@ Insight 3: São Paulo (SP) alone generates R$5.77M — nearly 3x more than secon
 
 Insight 4: Average order value has been slowly declining from R$175 in 2016 to R$155 in 2018 — worth investigating.
 
+Insight 5 — 93% of customers never repurchase. The business is entirely dependent on acquiring new customers rather than retaining existing ones. Cannot Lose segment (1,665 customers) generates R$945 avg spend but are slipping away.
 
-
-This is gold. Look at what this is telling you:
-
-Insight 5 — the biggest one: 38,227 customers are "New" but only 33 are "Champions". This business has a massive retention problem — almost everyone buys once and never comes back. That's the single most important finding in the entire project.
-
-Write this down:
-
-93% of customers never repurchase. The business is entirely dependent on acquiring new customers rather than retaining existing ones. Cannot Lose segment (1,665 customers) generates R$945 avg spend but are slipping away.
