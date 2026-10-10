@@ -26,7 +26,7 @@ RetailPulse analyzes the **Olist E-Commerce dataset** (2016–2018) to surface a
 
 **2. Bed & Bath is the top category** — R$1.69M revenue across 9,272 orders, followed by Health & Beauty (R$1.62M).
 
-**3. São Paulo dominates** — SP alone generates R$5.77M (37% of total revenue), nearly 3× Rio de Janeiro's R$2.05M.
+**3. Sao Paulo dominates** — SP alone generates R$5.77M (37% of total revenue), nearly 3× Rio de Janeiro's R$2.05M.
 
 **4. Retention crisis uncovered via RFM** — 93% of 93,357 customers (38,227 "New" vs. only 33 "Champions") never repurchased. The business is almost entirely acquisition-dependent.
 
